@@ -8,5 +8,5 @@
 课程链接：[基础计算](https://zhuanlan.zhihu.com/p/690668852)
 
 ### 基础函数
-画$cos(x)、sin(x)、e^x、log_ex、sigmoid(x)、relu(x)$函数的图像<br>
+画 $cos(x)、sin(x)、e^x、log_ex、sigmoid(x)、relu(x)$ 函数的图像<br>
 课程链接：[基础函数](https://zhuanlan.zhihu.com/p/690711338)
