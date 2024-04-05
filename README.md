@@ -19,4 +19,7 @@
 通过python实现梯度下降法，引出learning rate、epoch<br>
 课程链接：[求函数最小值-python版](https://zhuanlan.zhihu.com/p/690762054)
 
-### 
+### 求函数最小值-torch版
+通过torch实现梯度下降法，跟上面python版比较
+课程链接：[求函数最小值-torch版](https://zhuanlan.zhihu.com/p/690773980)
+
