@@ -29,7 +29,7 @@
  - [参数保存/模型预测](https://zhuanlan.zhihu.com/p/691116191)
 
 ### 求函数参数-torch版
-介绍：tensor实现、API实现线性回归，模型参数保存，模型推理，tensorboard记录变量值，如何在gpu上训练、推理
+介绍：tensor实现、API实现线性回归，模型参数保存，模型推理，tensorboard记录变量值，如何在gpu上训练、推理<br>
 课程链接：[求函数参数-torch版](https://zhuanlan.zhihu.com/p/691133665)
  - [参数保存/模型预测](https://zhuanlan.zhihu.com/p/691143137)
  - [用nn.Linear上篇](https://zhuanlan.zhihu.com/p/691144875)
