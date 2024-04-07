@@ -24,7 +24,7 @@
 课程链接：[求函数最小值-torch版](https://zhuanlan.zhihu.com/p/690773980)
 
 ### 求函数参数-python版
-以线性回归为例，模型的构建过程、设计损失函数、计算梯度、梯度更新
+以线性回归为例，模型的构建过程、设计损失函数、计算梯度、梯度更新<br>
 课程链接：[求函数参数-python版](https://zhuanlan.zhihu.com/p/691073047)
  - [参数保存/模型预测](https://zhuanlan.zhihu.com/p/691116191)
 
