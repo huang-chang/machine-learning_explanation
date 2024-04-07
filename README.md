@@ -28,3 +28,18 @@
 课程链接：[求函数参数-python版](https://zhuanlan.zhihu.com/p/691073047)
  - [参数保存/模型预测](https://zhuanlan.zhihu.com/p/691116191)
 
+### 求函数参数-torch版
+介绍：tensor实现、API实现线性回归，模型参数保存，模型推理，tensorboard记录变量值，如何在gpu上训练、推理
+课程链接：[求函数参数-torch版](https://zhuanlan.zhihu.com/p/691133665)
+ - [参数保存/模型预测](https://zhuanlan.zhihu.com/p/691143137)
+ - [用nn.Linear上篇](https://zhuanlan.zhihu.com/p/691144875)
+ - [用nn.Linear中篇](https://zhuanlan.zhihu.com/p/691149026)
+ - [用nn.Linear下篇](https://zhuanlan.zhihu.com/p/691152076)
+ - [DataLoader处理数据集](https://zhuanlan.zhihu.com/p/691153968)
+ - [训练过程中保存loss最低模型参数](https://zhuanlan.zhihu.com/p/691154973)
+ - [使用tensorboard记录参数/可视化](https://zhuanlan.zhihu.com/p/691155910)
+  - [记录/可视化-多个变量值](https://zhuanlan.zhihu.com/p/691156872)
+ - [cpu/gpu速度对比](https://zhuanlan.zhihu.com/p/691158757)
+  - [使用gpu训练模型](https://zhuanlan.zhihu.com/p/691161582)
+  - [使用gpu测试模型](https://zhuanlan.zhihu.com/p/691162836)
+
